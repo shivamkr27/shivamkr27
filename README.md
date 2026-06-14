@@ -34,50 +34,75 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<table align="center">
+  <tr><td align="center" colspan="7"><b>Languages</b></td></tr>
+  <tr>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java"/><br/><sub>Java</sub></td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python"/><br/><sub>Python</sub></td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript"/><br/><sub>JavaScript</sub></td>
+  </tr>
 
-**Languages**
+  <tr><td align="center" colspan="7"><b>Frontend</b></td></tr>
+  <tr>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"/><br/><sub>React</sub></td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind"/><br/><sub>Tailwind</sub></td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5"/><br/><sub>HTML5</sub></td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3"/><br/><sub>CSS3</sub></td>
+    <td align="center" width="70"><img src="https://cdn.simpleicons.org/framer/0055FF" width="40" height="40" alt="Framer Motion"/><br/><sub>Framer</sub></td>
+  </tr>
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript" />
+  <tr><td align="center" colspan="7"><b>Backend</b></td></tr>
+  <tr>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js"/><br/><sub>Node.js</sub></td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express"/><br/><sub>Express</sub></td>
+    <td align="center" width="70"><img src="https://cdn.simpleicons.org/socketdotio/010101" width="40" height="40" alt="Socket.io"/><br/><sub>Socket.io</sub></td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL"/><br/><sub>Postgres</sub></td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=redis" width="40" height="40" alt="Redis"/><br/><sub>Redis</sub></td>
+  </tr>
 
-**Frontend**
+  <tr><td align="center" colspan="7"><b>DevOps & Cloud</b></td></tr>
+  <tr>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker"/><br/><sub>Docker</sub></td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" alt="Kubernetes"/><br/><sub>K8s</sub></td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=terraform" width="40" height="40" alt="Terraform"/><br/><sub>Terraform</sub></td>
+    <td align="center" width="70"><img src="https://cdn.simpleicons.org/argo/EF7B4D" width="40" height="40" alt="ArgoCD"/><br/><sub>ArgoCD</sub></td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" alt="GitHub Actions"/><br/><sub>Actions</sub></td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=jenkins" width="40" height="40" alt="Jenkins"/><br/><sub>Jenkins</sub></td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS"/><br/><sub>AWS</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="70"><img src="https://cdn.simpleicons.org/oracle/F80000" width="40" height="40" alt="Oracle Cloud"/><br/><sub>OCI</sub></td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" alt="Nginx"/><br/><sub>Nginx</sub></td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux"/><br/><sub>Linux</sub></td>
+  </tr>
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
+  <tr><td align="center" colspan="7"><b>Security & Observability</b></td></tr>
+  <tr>
+    <td align="center" width="70"><img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" width="40" height="40" alt="SonarQube"/><br/><sub>SonarQube</sub></td>
+    <td align="center" width="70"><img src="https://cdn.simpleicons.org/trivy/1904DA" width="40" height="40" alt="Trivy"/><br/><sub>Trivy</sub></td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=prometheus" width="40" height="40" alt="Prometheus"/><br/><sub>Prometheus</sub></td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=grafana" width="40" height="40" alt="Grafana"/><br/><sub>Grafana</sub></td>
+    <td align="center" width="70"><img src="https://cdn.simpleicons.org/vault/FFEC6E" width="40" height="40" alt="Vault"/><br/><sub>Vault</sub></td>
+    <td align="center" width="70"><img src="https://cdn.simpleicons.org/jsonwebtokens/black" width="40" height="40" alt="JWT"/><br/><sub>JWT</sub></td>
+  </tr>
 
-<br/>
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,socketio" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=postgres,redis" />
-
-<br/>
-
-**DevOps & Cloud**
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,argocd,githubactions,jenkins,aws,nginx,linux" />
-
-**Security & Observability**
-
-<img src="https://skillicons.dev/icons?i=sonarqube,prometheus,grafana,vault" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github" />
-
-</div>
+  <tr><td align="center" colspan="7"><b>Tools</b></td></tr>
+  <tr>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/><br/><sub>Git</sub></td>
+    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/><br/><sub>GitHub</sub></td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/shivamkr27/gnosis-devops">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivamkr27&repo=gnosis-devops&theme=tokyonight&hide_border=true" alt="Gnosis"/>
-  </a>
+
+### 📦 [gnosis-devops](https://github.com/shivamkr27/gnosis-devops)
+
+🔗 **Live:** [http://80.225.228.31](http://80.225.228.31) &nbsp;|&nbsp; 🗣️ **PL/pgSQL**
+
 </div>
 
 ### 🧩 Gnosis — Microservices Platform with DevOps & AIOps
@@ -108,7 +133,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivamkr27&theme=onedark&no-frame=true&column=7&margin-w=8" alt="trophies"/>
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=shivamkr27&theme=onedark&no-frame=true&column=7&margin-w=8" alt="trophies"/>
 </div>
 
 ---
