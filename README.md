@@ -71,19 +71,19 @@
     <td align="center" width="70"><img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS"/><br/><sub>AWS</sub></td>
   </tr>
   <tr>
-    <td align="center" width="70"><img src="https://cdn.simpleicons.org/oracle/F80000" width="40" height="40" alt="Oracle Cloud"/><br/><sub>OCI</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Cloud"/></td>
     <td align="center" width="70"><img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" alt="Nginx"/><br/><sub>Nginx</sub></td>
     <td align="center" width="70"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux"/><br/><sub>Linux</sub></td>
   </tr>
 
   <tr><td align="center" colspan="7"><b>Security & Observability</b></td></tr>
   <tr>
-    <td align="center" width="70"><img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" width="40" height="40" alt="SonarQube"/><br/><sub>SonarQube</sub></td>
-    <td align="center" width="70"><img src="https://cdn.simpleicons.org/trivy/1904DA" width="40" height="40" alt="Trivy"/><br/><sub>Trivy</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=trivy&logoColor=white" alt="Trivy"/></td>
     <td align="center" width="70"><img src="https://skillicons.dev/icons?i=prometheus" width="40" height="40" alt="Prometheus"/><br/><sub>Prometheus</sub></td>
     <td align="center" width="70"><img src="https://skillicons.dev/icons?i=grafana" width="40" height="40" alt="Grafana"/><br/><sub>Grafana</sub></td>
-    <td align="center" width="70"><img src="https://cdn.simpleicons.org/vault/FFEC6E" width="40" height="40" alt="Vault"/><br/><sub>Vault</sub></td>
-    <td align="center" width="70"><img src="https://cdn.simpleicons.org/jsonwebtokens/black" width="40" height="40" alt="JWT"/><br/><sub>JWT</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black" alt="Vault"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/></td>
   </tr>
 
   <tr><td align="center" colspan="7"><b>Tools</b></td></tr>
@@ -131,18 +131,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=shivamkr27&theme=tokyonight&hide_border=true" alt="streak"/>
 </div>
-
-<div align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=shivamkr27&theme=onedark&no-frame=true&column=7&margin-w=8" alt="trophies"/>
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-- ☁️ **AWS Certified Cloud Practitioner** — Amazon Web Services
-- 📈 **94th percentile** in Naukri Campus Young Turks 2025 — India's largest skill contest
-- 🏸 **Winner** — Intra-Department Badminton Tournament, UPES
 
 ---
 
