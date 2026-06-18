@@ -114,10 +114,24 @@
 - Ran the stack on **Kubernetes HPA** with PodDisruptionBudgets and hardened non-root securityContexts, observed via **Prometheus + Grafana** dashboards (per-service latency, error rates, throughput).
 - Built **Kira**, an AIOps agent (Python + Streamlit + Gemini 2.5-flash) for automated cluster health scanning, anomaly detection & natural-language incident summaries.
 
-### ⚙️ End-to-End CI/CD Pipeline & Infrastructure Automation
-- Built a **language-agnostic** GitHub Actions pipeline with auto-detection (Python/Node/Static) that cut manual deploy cycles from **30 minutes → 3**.
-- Implemented **multi-stage Docker builds** for a **40% smaller image** and **80%+ test coverage** via automated PostgreSQL-integrated testing.
-- Configured automated publishing to Docker Hub with secure deploy triggers for Render, managing secrets & health checks for production reliability.
+---
+
+<div align="center">
+
+### 💥 [Chaos-and-DR](https://github.com/shivamkr27/Chaos-and-DR)
+
+🔗 **Dashboard:** [shivamkr27.github.io/Chaos-and-DR](https://shivamkr27.github.io/Chaos-and-DR) &nbsp;|&nbsp; 🌐 **Worker:** [chaos-dr-failove.shivamkumarbxr8.workers.dev](https://chaos-dr-failove.shivamkumarbxr8.workers.dev)
+
+</div>
+
+### 🔥 Chaos Engineering + Multi-Region Disaster Recovery on AWS
+> Node.js · Docker · K3s · Terraform · Cloudflare Worker · Prometheus · Grafana · GitHub Actions · AWS Lambda + SNS
+
+- Built an **active-passive multi-region system** (us-east-1 primary, us-west-2 DR) on K3s Kubernetes — Cloudflare Worker probes health per-request and fails over in **< 5 seconds** with no DNS changes.
+- Ran 4 chaos experiments (pod delete, network latency injection, CPU stress, full region kill) proving **17s pod RTO**, 99.9%+ availability, and **< 5s regional failover** under real failure conditions.
+- Provisioned both regions with **Terraform modules** (VPC, EC2, RDS, EIP, IAM, swap userdata) — full `terraform destroy` for zero-cost teardown between demos.
+- Set up **HPA autoscaling/v2** (CPU 70% + memory 80% dual metric), Prometheus + Grafana (Node Exporter Full dashboard 1860), and AWS Lambda + SNS email alerts triggered via Cloudflare Worker on failover.
+- Shipped a **GitHub Actions CI/CD pipeline** — test → multi-stage Docker build → DockerHub push (`:latest` + `:<sha>`) → `kubectl rollout` with SHA-pinned image.
 
 ---
 
