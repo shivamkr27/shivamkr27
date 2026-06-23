@@ -25,7 +25,6 @@
 - 🎓 CS student at **UPES**, specializing in **DevOps**
 - ⚙️ I build **full-stack applications** and the **cloud-native infrastructure** that runs them — microservices, real-time engines, Kubernetes clusters, GitOps pipelines & AIOps tooling
 - 🌱 Currently going deeper into **service mesh, platform engineering & advanced Kubernetes**
-- ☁️ **AWS Certified Cloud Practitioner** — I think in pipelines, containers, and automation
 - 💬 Ask me about **Docker, Kubernetes, CI/CD, ArgoCD GitOps & Terraform**
 - 📫 Reach me at **shivamkumarbxr8@gmail.com**
 - ⚡ Fun fact: I once cut a deployment cycle from **30 minutes → 3** — and I'm still not satisfied
