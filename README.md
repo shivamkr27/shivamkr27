@@ -85,6 +85,15 @@
     <td align="center"><img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/></td>
   </tr>
 
+  <tr><td align="center" colspan="7"><b>AI / ML</b></td></tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logo=databricks&logoColor=white" alt="ChromaDB"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" alt="Groq"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Chainlit-0F172A?style=flat-square&logo=chainlink&logoColor=white" alt="Chainlit"/></td>
+  </tr>
+
   <tr><td align="center" colspan="7"><b>Tools</b></td></tr>
   <tr>
     <td align="center" width="70"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/><br/><sub>Git</sub></td>
@@ -131,6 +140,25 @@
 - Provisioned both regions with **Terraform modules** (VPC, EC2, RDS, EIP, IAM, swap userdata) — full `terraform destroy` for zero-cost teardown between demos.
 - Set up **HPA autoscaling/v2** (CPU 70% + memory 80% dual metric), Prometheus + Grafana (Node Exporter Full dashboard 1860), and AWS Lambda + SNS email alerts triggered via Cloudflare Worker on failover.
 - Shipped a **GitHub Actions CI/CD pipeline** — test → multi-stage Docker build → DockerHub push (`:latest` + `:<sha>`) → `kubectl rollout` with SHA-pinned image.
+
+---
+
+<div align="center">
+
+### 🧠 [Insight-engine-agent](https://github.com/shivamkr27/Insight-engine-agent)
+
+🔗 **Live:** [http://80.225.212.121:8000](http://80.225.212.121:8000)
+
+</div>
+
+### 🔍 InsightEngine — Production-Grade Multi-Agent RAG System
+> Python · LangGraph · ChromaDB · Groq (Llama-3.3-70b) · BM25 · Chainlit · Docker · GitHub Actions · Oracle Cloud
+
+- Architected a **multi-agent RAG pipeline** using LangGraph — parallel agents handle sub-questions simultaneously with CRAG (Corrective RAG) loops that auto-rewrite queries on irrelevant retrievals, cutting hallucination rates significantly.
+- Built a **hybrid retrieval engine** combining ChromaDB dense search + BM25 sparse search with score fusion (`0.6×dense + 0.4×BM25`) and cross-encoder reranking (`ms-marco-MiniLM-L-6-v2`) — 4 adaptive retrieval profiles auto-selected by query type (factual / conceptual / comparative / auto).
+- Shipped **6 advanced modes**: Multi-Hop Reasoning (breaks complex questions into ordered search chains), Compare Mode (side-by-side document diff), Study Mode (quiz generation + auto-evaluation), Text2SQL (NL → SQLite for budget data), Web Search fallback (DuckDuckGo), and Hindi Mode (full Devanagari output).
+- Implemented **LLM-as-Judge hallucination scorer** (1–5 factual grounding badge per answer), semantic **User Memory** (ChromaDB-backed, personalizes future responses), and word-by-word **token streaming** via `astream_events`.
+- Deployed on **Oracle Cloud `e2.1.micro`** (1 OCPU / 1GB RAM) — ChromaDB in-process (saves ~200MB), 2GB swap for ML model loading, idle footprint of ~354MB; CI/CD via GitHub Actions (pytest → Trivy CVE scan → SSH deploy), with **163 unit tests** across all core modules.
 
 ---
 
