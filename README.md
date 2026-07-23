@@ -1,12 +1,12 @@
 <!-- ============ HEADER BANNER ============ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Shivam%20Kumar&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A0A09,50:1A140B,100:0A0A09&height=180&section=header&text=Shivam%20Kumar&fontSize=55&fontColor=E0B876&fontAlignY=40&animation=fadeIn" width="100%" alt="header"/>
 </div>
 
 <!-- ============ TYPING TAGLINE ============ -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=DevOps+%2B+Full-Stack+Developer;CS+Student+%40+UPES;I+build+cloud-native+systems;Docker+%7C+Kubernetes+%7C+CI%2FCD+%7C+Terraform;Automating+everything+that+deploys" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=C9974D&center=true&vCenter=true&width=620&lines=DevOps+%2B+Full-Stack+Developer;CS+Student+%40+UPES;I+build+cloud-native+systems;Docker+%7C+Kubernetes+%7C+CI%2FCD+%7C+Terraform;Automating+everything+that+deploys" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -15,12 +15,12 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivamkr27&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=shivamkr27&color=c9974d&style=for-the-badge&label=Profile+Views" alt="profile views"/>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 01 · About Me
 
 - 🎓 CS student at **UPES**, specializing in **DevOps**
 - ⚙️ I build **full-stack applications** and the **cloud-native infrastructure** that runs them — microservices, real-time engines, Kubernetes clusters, GitOps pipelines & AIOps tooling
@@ -31,89 +31,70 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 02 · Tech Stack
 
-<table align="center">
-  <tr><td align="center" colspan="7"><b>Languages</b></td></tr>
-  <tr>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java"/><br/><sub>Java</sub></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python"/><br/><sub>Python</sub></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript"/><br/><sub>JavaScript</sub></td>
-  </tr>
+<p align="center"><b>Languages</b></p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js&theme=dark" height="50" alt="Languages"/>
+</div>
 
-  <tr><td align="center" colspan="7"><b>Frontend</b></td></tr>
-  <tr>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"/><br/><sub>React</sub></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind"/><br/><sub>Tailwind</sub></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5"/><br/><sub>HTML5</sub></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3"/><br/><sub>CSS3</sub></td>
-    <td align="center" width="70"><img src="https://cdn.simpleicons.org/framer/0055FF" width="40" height="40" alt="Framer Motion"/><br/><sub>Framer</sub></td>
-  </tr>
+<p align="center"><b>Frontend</b></p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark" height="50" alt="Frontend"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0A0A09?style=for-the-badge&logo=framer&logoColor=E0B876" alt="Framer Motion"/>
+</div>
 
-  <tr><td align="center" colspan="7"><b>Backend</b></td></tr>
-  <tr>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js"/><br/><sub>Node.js</sub></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express"/><br/><sub>Express</sub></td>
-    <td align="center" width="70"><img src="https://cdn.simpleicons.org/socketdotio/010101" width="40" height="40" alt="Socket.io"/><br/><sub>Socket.io</sub></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL"/><br/><sub>Postgres</sub></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=redis" width="40" height="40" alt="Redis"/><br/><sub>Redis</sub></td>
-  </tr>
+<p align="center"><b>Backend</b></p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,redis&theme=dark" height="50" alt="Backend"/>
+  <img src="https://img.shields.io/badge/Socket.io-0A0A09?style=for-the-badge&logo=socketdotio&logoColor=E0B876" alt="Socket.io"/>
+</div>
 
-  <tr><td align="center" colspan="7"><b>DevOps & Cloud</b></td></tr>
-  <tr>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker"/><br/><sub>Docker</sub></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" alt="Kubernetes"/><br/><sub>K8s</sub></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=terraform" width="40" height="40" alt="Terraform"/><br/><sub>Terraform</sub></td>
-    <td align="center" width="70"><img src="https://cdn.simpleicons.org/argo/EF7B4D" width="40" height="40" alt="ArgoCD"/><br/><sub>ArgoCD</sub></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" alt="GitHub Actions"/><br/><sub>Actions</sub></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=jenkins" width="40" height="40" alt="Jenkins"/><br/><sub>Jenkins</sub></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS"/><br/><sub>AWS</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Cloud"/></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" alt="Nginx"/><br/><sub>Nginx</sub></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux"/><br/><sub>Linux</sub></td>
-  </tr>
+<p align="center"><b>DevOps & Cloud</b></p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,jenkins,aws,nginx,linux&theme=dark" height="50" alt="DevOps & Cloud"/>
+  <br/>
+  <img src="https://img.shields.io/badge/ArgoCD-0A0A09?style=for-the-badge&logo=argo&logoColor=E0B876" alt="ArgoCD"/>
+  <img src="https://img.shields.io/badge/Oracle_Cloud-0A0A09?style=for-the-badge&logo=oracle&logoColor=E0B876" alt="Oracle Cloud"/>
+</div>
 
-  <tr><td align="center" colspan="7"><b>Security & Observability</b></td></tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=trivy&logoColor=white" alt="Trivy"/></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=prometheus" width="40" height="40" alt="Prometheus"/><br/><sub>Prometheus</sub></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=grafana" width="40" height="40" alt="Grafana"/><br/><sub>Grafana</sub></td>
-    <td align="center"><img src="https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black" alt="Vault"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/></td>
-  </tr>
+<p align="center"><b>Security & Observability</b></p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" height="50" alt="Security & Observability"/>
+  <br/>
+  <img src="https://img.shields.io/badge/SonarQube-0A0A09?style=for-the-badge&logo=sonarqube&logoColor=E0B876" alt="SonarQube"/>
+  <img src="https://img.shields.io/badge/Trivy-0A0A09?style=for-the-badge&logo=trivy&logoColor=E0B876" alt="Trivy"/>
+  <img src="https://img.shields.io/badge/Vault-0A0A09?style=for-the-badge&logo=vault&logoColor=E0B876" alt="Vault"/>
+  <img src="https://img.shields.io/badge/JWT-0A0A09?style=for-the-badge&logo=jsonwebtokens&logoColor=E0B876" alt="JWT"/>
+</div>
 
-  <tr><td align="center" colspan="7"><b>AI / ML</b></td></tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logo=databricks&logoColor=white" alt="ChromaDB"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" alt="Groq"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Chainlit-0F172A?style=flat-square&logo=chainlink&logoColor=white" alt="Chainlit"/></td>
-  </tr>
+<p align="center"><b>Generative AI</b></p>
+<div align="center">
+  <img src="https://img.shields.io/badge/LangGraph-0A0A09?style=for-the-badge&logo=langchain&logoColor=E0B876" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/ChromaDB-0A0A09?style=for-the-badge&logo=databricks&logoColor=E0B876" alt="ChromaDB"/>
+  <img src="https://img.shields.io/badge/Groq-0A0A09?style=for-the-badge&logo=groq&logoColor=E0B876" alt="Groq"/>
+  <img src="https://img.shields.io/badge/HuggingFace-0A0A09?style=for-the-badge&logo=huggingface&logoColor=E0B876" alt="HuggingFace"/>
+  <img src="https://img.shields.io/badge/Chainlit-0A0A09?style=for-the-badge&logo=chainlink&logoColor=E0B876" alt="Chainlit"/>
+</div>
 
-  <tr><td align="center" colspan="7"><b>Tools</b></td></tr>
-  <tr>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/><br/><sub>Git</sub></td>
-    <td align="center" width="70"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/><br/><sub>GitHub</sub></td>
-  </tr>
-</table>
+<p align="center"><b>Tools</b></p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" height="50" alt="Tools"/>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 03 · Featured Projects
 
 <div align="center">
 
-### 📦 [gnosis-devops](https://github.com/shivamkr27/gnosis-devops)
+### 🧩 [gnosis-devops](https://github.com/shivamkr27/gnosis-devops) — Microservices Platform with DevOps & AIOps
 
-🔗 **Live:** [http://80.225.228.31](http://80.225.228.31) &nbsp;|&nbsp; 🗣️ **PL/pgSQL**
+[![Repo](https://img.shields.io/badge/Repository-0A0A09?style=for-the-badge&logo=github&logoColor=E0B876)](https://github.com/shivamkr27/gnosis-devops)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-141312?style=for-the-badge&logo=vercel&logoColor=E0B876)](http://80.225.228.31)
 
 </div>
 
-### 🧩 Gnosis — Microservices Platform with DevOps & AIOps
 > Node.js · Express · React · Socket.io · PostgreSQL · Redis · Docker · Kubernetes (OKE) · Terraform · ArgoCD · GitHub Actions · Prometheus · Grafana · Gemini API
 
 - Architected a **7-service** microservices platform (api-gateway, auth, content, progress, XP, battle, notification) with JWT auth, Helmet CSP, a relational PostgreSQL schema (8+ tables), and Redis-backed state for battle rooms & leaderboards.
@@ -126,17 +107,18 @@
 
 <div align="center">
 
-### 💥 [Chaos-and-DR](https://github.com/shivamkr27/Chaos-and-DR)
+### 💥 [Chaos-and-DR](https://github.com/shivamkr27/Chaos-and-DR) — Chaos Engineering + Multi-Region Disaster Recovery on AWS
 
-🔗 **Dashboard:** [shivamkr27.github.io/Chaos-and-DR](https://shivamkr27.github.io/Chaos-and-DR) &nbsp;|&nbsp; 🌐 **Worker:** [chaos-dr-failove.shivamkumarbxr8.workers.dev](https://chaos-dr-failove.shivamkumarbxr8.workers.dev)
+[![Repo](https://img.shields.io/badge/Repository-0A0A09?style=for-the-badge&logo=github&logoColor=E0B876)](https://github.com/shivamkr27/Chaos-and-DR)
+[![Dashboard](https://img.shields.io/badge/Dashboard-141312?style=for-the-badge&logo=vercel&logoColor=E0B876)](https://shivamkr27.github.io/Chaos-and-DR)
+[![Worker](https://img.shields.io/badge/Cloudflare_Worker-141312?style=for-the-badge&logo=cloudflare&logoColor=E0B876)](https://chaos-dr-failove.shivamkumarbxr8.workers.dev)
 
 </div>
 
-### 🔥 Chaos Engineering + Multi-Region Disaster Recovery on AWS
 > Node.js · Docker · K3s · Terraform · Cloudflare Worker · Prometheus · Grafana · GitHub Actions · AWS Lambda + SNS
 
 - Built an **active-passive multi-region system** (us-east-1 primary, us-west-2 DR) on K3s Kubernetes — Cloudflare Worker probes health per-request and fails over in **< 5 seconds** with no DNS changes.
-- Ran 4 chaos experiments (pod delete, network latency injection, CPU stress, full region kill) proving **17s pod RTO**, 99.9%+ availability, and **< 5s regional failover** under real failure conditions.
+- Ran 4 chaos experiments (pod delete, network latency injection, CPU stress, full region kill) proving **17s pod RTO**, ≥99.5% availability, and **< 5s regional failover** under real failure conditions.
 - Provisioned both regions with **Terraform modules** (VPC, EC2, RDS, EIP, IAM, swap userdata) — full `terraform destroy` for zero-cost teardown between demos.
 - Set up **HPA autoscaling/v2** (CPU 70% + memory 80% dual metric), Prometheus + Grafana (Node Exporter Full dashboard 1860), and AWS Lambda + SNS email alerts triggered via Cloudflare Worker on failover.
 - Shipped a **GitHub Actions CI/CD pipeline** — test → multi-stage Docker build → DockerHub push (`:latest` + `:<sha>`) → `kubectl rollout` with SHA-pinned image.
@@ -145,13 +127,13 @@
 
 <div align="center">
 
-### 🧠 [Insight-engine-agent](https://github.com/shivamkr27/Insight-engine-agent)
+### 🔍 [Insight-engine-agent](https://github.com/shivamkr27/Insight-engine-agent) — Production-Grade Multi-Agent RAG System
 
-🔗 **Live:** [http://80.225.212.121:8000](http://80.225.212.121:8000)
+[![Repo](https://img.shields.io/badge/Repository-0A0A09?style=for-the-badge&logo=github&logoColor=E0B876)](https://github.com/shivamkr27/Insight-engine-agent)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-141312?style=for-the-badge&logo=vercel&logoColor=E0B876)](http://80.225.212.121:8000)
 
 </div>
 
-### 🔍 InsightEngine — Production-Grade Multi-Agent RAG System
 > Python · LangGraph · ChromaDB · Groq (Llama-3.3-70b) · BM25 · Chainlit · Docker · GitHub Actions · Oracle Cloud
 
 - Architected a **multi-agent RAG pipeline** using LangGraph — parallel agents handle sub-questions simultaneously with CRAG (Corrective RAG) loops that auto-rewrite queries on irrelevant retrievals, cutting hallucination rates significantly.
@@ -162,34 +144,34 @@
 
 ---
 
-## 📊 GitHub Stats
+## 04 · GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shivamkr27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkr27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shivamkr27&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0A0A09&title_color=E0B876&text_color=F3EFE6&icon_color=C9974D&border_color=141312" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkr27&layout=compact&hide_border=true&langs_count=8&bg_color=0A0A09&title_color=E0B876&text_color=F3EFE6&border_color=141312" alt="top langs"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=shivamkr27&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img src="https://streak-stats.demolab.com/?user=shivamkr27&hide_border=true&background=0A0A09&ring=C9974D&fire=E0B876&currStreakLabel=E0B876&sideLabels=F3EFE6&currStreakNum=F3EFE6&sideNums=F3EFE6&dates=8F8B81&stroke=141312" alt="streak"/>
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 05 · Connect With Me
 
 <div align="center">
   <a href="https://linkedin.com/in/shivamkr2004">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A09?style=for-the-badge&logo=linkedin&logoColor=E0B876" alt="LinkedIn"/>
   </a>
   <a href="mailto:shivamkumarbxr8@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-0A0A09?style=for-the-badge&logo=gmail&logoColor=E0B876" alt="Gmail"/>
   </a>
   <a href="https://github.com/shivamkr27">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-0A0A09?style=for-the-badge&logo=github&logoColor=E0B876" alt="GitHub"/>
   </a>
 </div>
 
 <!-- ============ FOOTER BANNER ============ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A0A09,50:1A140B,100:0A0A09&height=100&section=footer" width="100%" alt="footer"/>
 </div>
