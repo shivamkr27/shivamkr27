@@ -33,54 +33,19 @@
 
 ## 02 · Tech Stack
 
-<p align="center"><b>Languages</b></p>
+<p align="center"><sub>core languages, frameworks & platform tooling</sub></p>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js&theme=dark" height="50" alt="Languages"/>
+  <img src="assets/tech-marquee-core.svg" width="100%" alt="core stack marquee"/>
 </div>
 
-<p align="center"><b>Frontend</b></p>
+<p align="center"><sub>security, observability, GitOps & generative AI</sub></p>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark" height="50" alt="Frontend"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-0A0A09?style=for-the-badge&logo=framer&logoColor=E0B876" alt="Framer Motion"/>
+  <img src="assets/tech-marquee-devsec.svg" width="100%" alt="devsecops and AI stack marquee"/>
 </div>
 
-<p align="center"><b>Backend</b></p>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,redis&theme=dark" height="50" alt="Backend"/>
-  <img src="https://img.shields.io/badge/Socket.io-0A0A09?style=for-the-badge&logo=socketdotio&logoColor=E0B876" alt="Socket.io"/>
-</div>
-
-<p align="center"><b>DevOps & Cloud</b></p>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,jenkins,aws,nginx,linux&theme=dark" height="50" alt="DevOps & Cloud"/>
-  <br/>
-  <img src="https://img.shields.io/badge/ArgoCD-0A0A09?style=for-the-badge&logo=argo&logoColor=E0B876" alt="ArgoCD"/>
-  <img src="https://img.shields.io/badge/Oracle_Cloud-0A0A09?style=for-the-badge&logo=oracle&logoColor=E0B876" alt="Oracle Cloud"/>
-</div>
-
-<p align="center"><b>Security & Observability</b></p>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" height="50" alt="Security & Observability"/>
-  <br/>
-  <img src="https://img.shields.io/badge/SonarQube-0A0A09?style=for-the-badge&logo=sonarqube&logoColor=E0B876" alt="SonarQube"/>
-  <img src="https://img.shields.io/badge/Trivy-0A0A09?style=for-the-badge&logo=trivy&logoColor=E0B876" alt="Trivy"/>
-  <img src="https://img.shields.io/badge/Vault-0A0A09?style=for-the-badge&logo=vault&logoColor=E0B876" alt="Vault"/>
-  <img src="https://img.shields.io/badge/JWT-0A0A09?style=for-the-badge&logo=jsonwebtokens&logoColor=E0B876" alt="JWT"/>
-</div>
-
-<p align="center"><b>Generative AI</b></p>
-<div align="center">
-  <img src="https://img.shields.io/badge/LangGraph-0A0A09?style=for-the-badge&logo=langchain&logoColor=E0B876" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/ChromaDB-0A0A09?style=for-the-badge&logo=databricks&logoColor=E0B876" alt="ChromaDB"/>
-  <img src="https://img.shields.io/badge/Groq-0A0A09?style=for-the-badge&logo=groq&logoColor=E0B876" alt="Groq"/>
-  <img src="https://img.shields.io/badge/HuggingFace-0A0A09?style=for-the-badge&logo=huggingface&logoColor=E0B876" alt="HuggingFace"/>
-  <img src="https://img.shields.io/badge/Chainlit-0A0A09?style=for-the-badge&logo=chainlink&logoColor=E0B876" alt="Chainlit"/>
-</div>
-
-<p align="center"><b>Tools</b></p>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" height="50" alt="Tools"/>
-</div>
+<p align="center"><sub>Generative AI: LangGraph agents · ChromaDB · Groq (Llama-3.3-70b)</sub></p>
 
 ---
 
@@ -134,7 +99,7 @@
 
 </div>
 
-> Python · LangGraph · ChromaDB · Groq (Llama-3.3-70b) · BM25 · Chainlit · Docker · GitHub Actions · Oracle Cloud
+> Python · LangGraph · ChromaDB · Groq (Llama-3.3-70b) · BM25 · Docker · GitHub Actions · Oracle Cloud
 
 - Architected a **multi-agent RAG pipeline** using LangGraph — parallel agents handle sub-questions simultaneously with CRAG (Corrective RAG) loops that auto-rewrite queries on irrelevant retrievals, cutting hallucination rates significantly.
 - Built a **hybrid retrieval engine** combining ChromaDB dense search + BM25 sparse search with score fusion (`0.6×dense + 0.4×BM25`) and cross-encoder reranking (`ms-marco-MiniLM-L-6-v2`) — 4 adaptive retrieval profiles auto-selected by query type (factual / conceptual / comparative / auto).
@@ -146,10 +111,16 @@
 
 ## 04 · GitHub Stats
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shivamkr27&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0A0A09&title_color=E0B876&text_color=F3EFE6&icon_color=C9974D&border_color=141312" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkr27&layout=compact&hide_border=true&langs_count=8&bg_color=0A0A09&title_color=E0B876&text_color=F3EFE6&border_color=141312" alt="top langs"/>
-</div>
+<!--
+  github-readme-stats.vercel.app's public demo instance is currently paused
+  (Vercel free-tier hour limit — a recurring upstream issue, not this repo).
+  Restore this block once https://github-readme-stats.vercel.app/api loads again:
+
+  <div align="center">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=shivamkr27&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0A0A09&title_color=E0B876&text_color=F3EFE6&icon_color=C9974D&border_color=141312" alt="stats"/>
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkr27&layout=compact&hide_border=true&langs_count=8&bg_color=0A0A09&title_color=E0B876&text_color=F3EFE6&border_color=141312" alt="top langs"/>
+  </div>
+-->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=shivamkr27&hide_border=true&background=0A0A09&ring=C9974D&fire=E0B876&currStreakLabel=E0B876&sideLabels=F3EFE6&currStreakNum=F3EFE6&sideNums=F3EFE6&dates=8F8B81&stroke=141312" alt="streak"/>
